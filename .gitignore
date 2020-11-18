@@ -109,3 +109,5 @@ buildNumber.properties
 .mvn
 mvnw
 mvnw.cmd
+/.classpath
+/.project
